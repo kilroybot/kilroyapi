@@ -1,0 +1,9 @@
+*
+!kilroyapi/src/**
+!kilroyapi/tests/**
+!kilroyapi/pyproject.toml
+!kilroyapi/poetry.lock
+!kilroyapi/LICENSE
+!kilroyapi/README.md
+!environment.yml
+!requirements.txt
